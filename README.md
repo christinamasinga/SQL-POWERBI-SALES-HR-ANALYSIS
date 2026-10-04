@@ -1,11 +1,11 @@
-# SQL-POWERBI-SALES-HR-ANALYSIS
+SQL-POWERBI-SALES-HR-ANALYSIS
 Analysis of retail sales performance, customer subscriptions, and HR employee data using SQL and Power BI."
-# Sales Performance, Customer Segmentation, and HR Analytics
+Sales Performance, Customer Segmentation, and HR Analytics
 
-## Project Overview
+Project Overview
 This project analyzes three main areas of a business: retail sales performance, customer subscription behavior, and human resources (HR) employee data. The goal is to extract key business insights to help the company make better decisions regarding sales, customer retention, and employee management.
 
-## ️ Process
+Process
 The analysis was completed in the following steps:
 1. Data Cleaning: The raw Excel and CSV files were cleaned to fix formatting errors and remove blank rows.
 2. Database Setup: The cleaned data was imported into SQL Server.
@@ -31,9 +31,9 @@ The data shows that the company has a strong customer base driven by basic subsc
 On the HR side, management should investigate the high overtime hours among male employees and implement targeted retention programs for departments with high turnover rates. Overall, using data-driven insights will help the company improve both customer satisfaction and employee well-being.
 
 Repository Contents
-* SQL_Answers.pdf** - Contains all the SQL queries and their results.
-* PowerBI_Dashboard.pbix** - The interactive Power BI file with all visualizations.
-* Project_Documentation.pdf** - The detailed written report of the analysis.
+* SQL_Answers.pdf- Contains all the SQL queries and their results.
+* PowerBI_Dashboard.pbix - The interactive Power BI file with all visualizations.
+* Project_Documentation.pdf - The detailed written report of the analysis.
 
 Author
 * Name: CHRISTINA MASINGA
